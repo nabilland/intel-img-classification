@@ -1,2 +1,2 @@
-# intel-img-classification
-Intel Image Classification using Hybrid CNN &amp; VGG16
+# Intel Image Classification
+This project focuses on image classification using the [Intel Image Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification). It leverages transfer learning with a pretrained VGG16 model, integrated into a Sequential architecture. The model extracts deep features from VGG16 and classifies images into different 6 scene categories. The goal is to utilize pretrained knowledge for efficient and accurate scene recognition.
